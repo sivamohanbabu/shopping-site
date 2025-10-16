@@ -48,3 +48,10 @@ position: absolute;
     cursor: pointer;
     padding: 3px;
 }
+.about{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:50px
+}
+.about::first-letter{
+padding-left: 50px;
+}
