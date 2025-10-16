@@ -55,3 +55,12 @@ position: absolute;
 .about::first-letter{
 padding-left: 50px;
 }
+footer{
+    height: 400px;
+    background-color: black;
+    margin-top: 200px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
